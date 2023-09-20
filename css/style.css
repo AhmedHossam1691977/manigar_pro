@@ -1,0 +1,889 @@
+/* 
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+body {
+    background-color: #e9ecef;
+    width:99.8%;
+}
+
+header p::after {
+    content: "|";
+    font-size: 30px;
+    -webkit-animation-name: devolibar;
+    animation-name: devolibar;
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
+ul li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+@-webkit-keyframes devolibar {
+    0% {
+        content: "D|";
+    }
+    1% {
+        content: "De|";
+    }
+    2% {
+        content: "Des|";
+    }
+    3% {
+        content: "Desi|";
+    }
+    4% {
+        content: "Desig|";
+    }
+    5% {
+        content: "Design|";
+    }
+    6% {
+        content: "Designe|";
+    }
+    7% {
+        content: "Designer|";
+    }
+    8% {
+        content: "Design|";
+    }
+    9% {
+        content: "Desig|";
+    }
+    10% {
+        content: "Desi|";
+    }
+    11% {
+        content: "Des|";
+    }
+    12% {
+        content: "De|";
+    }
+    13% {
+        content: "D|";
+    }
+    14% {
+        content: "D|";
+    }
+    15% {
+        content: "De|";
+    }
+    16% {
+        content: "Dev|";
+    }
+    17% {
+        content: "Deve|";
+    }
+    18% {
+        content: "Develo|";
+    }
+    19% {
+        content: "Develop|";
+    }
+    20% {
+        content: "Develope|";
+    }
+    21% {
+        content: "Developer|";
+    }
+    22% {
+        content: "Develope|";
+    }
+    23% {
+        content: "Develop|";
+    }
+    24% {
+        content: "Develo|";
+    }
+    25% {
+        content: "Develo|";
+    }
+    26% {
+        content: "Devel|";
+    }
+    27% {
+        content: "Deve|";
+    }
+    28% {
+        content: "Dev|";
+    }
+    29% {
+        content: "De|";
+    }
+    30% {
+        content: "D|";
+    }
+    31% {
+        content: "F|";
+    }
+    32% {
+        content: "Fr|";
+    }
+    33% {
+        content: "Fre|";
+    }
+    34% {
+        content: "Free|";
+    }
+    35% {
+        content: "Frele|";
+    }
+    36% {
+        content: "Freela|";
+    }
+    37% {
+        content: "Freelan|";
+    }
+    38% {
+        content: "Freelanc|";
+    }
+    39% {
+        content: "Freelance|";
+    }
+    40% {
+        content: "Freelancer|";
+    }
+    41% {
+        content: "Freelancer|";
+    }
+    42% {
+        content: "Freelance|";
+    }
+    43% {
+        content: "Freelanc|";
+    }
+    44% {
+        content: "Freelan|";
+    }
+    45% {
+        content: "Freela|";
+    }
+    46% {
+        content: "Freel|";
+    }
+    47% {
+        content: "Free|";
+    }
+    48% {
+        content: "Fre|";
+    }
+    49% {
+        content: "Fr|";
+    }
+    50% {
+        content: "F|";
+    }
+    51% {
+        content: "P|";
+    }
+    52% {
+        content: "Ph|";
+    }
+    53% {
+        content: "Pho|";
+    }
+    54% {
+        content: "Phot|";
+    }
+    55% {
+        content: "Photo|";
+    }
+    56% {
+        content: "Photog|";
+    }
+    57% {
+        content: "Photogr|";
+    }
+    58% {
+        content: "Photogra|";
+    }
+    59% {
+        content: "Photograp|";
+    }
+    60% {
+        content: "Photograph|";
+    }
+    61% {
+        content: "Photographe|";
+    }
+    62% {
+        content: "Photographer|";
+    }
+    63% {
+        content: "Photographe|";
+    }
+    64% {
+        content: "Photograph|";
+    }
+    65% {
+        content: "Photograp|";
+    }
+    66% {
+        content: "Photogra|";
+    }
+    67% {
+        content: "Photogr|";
+    }
+    68% {
+        content: "Photog|";
+    }
+    69% {
+        content: "Photo|";
+    }
+    70% {
+        content: "Phot|";
+    }
+    71% {
+        content: "Pho|";
+    }
+    72% {
+        content: "Ph|";
+    }
+    73% {
+        content: "P|";
+    }
+}
+@keyframes devolibar {
+    0% {
+        content: "D|";
+    }
+    1% {
+        content: "De|";
+    }
+    2% {
+        content: "Des|";
+    }
+    3% {
+        content: "Desi|";
+    }
+    4% {
+        content: "Desig|";
+    }
+    5% {
+        content: "Design|";
+    }
+    6% {
+        content: "Designe|";
+    }
+    7% {
+        content: "Designer|";
+    }
+    8% {
+        content: "Design|";
+    }
+    9% {
+        content: "Desig|";
+    }
+    10% {
+        content: "Desi|";
+    }
+    11% {
+        content: "Des|";
+    }
+    12% {
+        content: "De|";
+    }
+    13% {
+        content: "D|";
+    }
+    14% {
+        content: "D|";
+    }
+    15% {
+        content: "De|";
+    }
+    16% {
+        content: "Dev|";
+    }
+    17% {
+        content: "Deve|";
+    }
+    18% {
+        content: "Develo|";
+    }
+    19% {
+        content: "Develop|";
+    }
+    20% {
+        content: "Develope|";
+    }
+    21% {
+        content: "Developer|";
+    }
+    22% {
+        content: "Develope|";
+    }
+    23% {
+        content: "Develop|";
+    }
+    24% {
+        content: "Develo|";
+    }
+    25% {
+        content: "Develo|";
+    }
+    26% {
+        content: "Devel|";
+    }
+    27% {
+        content: "Deve|";
+    }
+    28% {
+        content: "Dev|";
+    }
+    29% {
+        content: "De|";
+    }
+    30% {
+        content: "D|";
+    }
+    31% {
+        content: "F|";
+    }
+    32% {
+        content: "Fr|";
+    }
+    33% {
+        content: "Fre|";
+    }
+    34% {
+        content: "Free|";
+    }
+    35% {
+        content: "Frele|";
+    }
+    36% {
+        content: "Freela|";
+    }
+    37% {
+        content: "Freelan|";
+    }
+    38% {
+        content: "Freelanc|";
+    }
+    39% {
+        content: "Freelance|";
+    }
+    40% {
+        content: "Freelancer|";
+    }
+    41% {
+        content: "Freelancer|";
+    }
+    42% {
+        content: "Freelance|";
+    }
+    43% {
+        content: "Freelanc|";
+    }
+    44% {
+        content: "Freelan|";
+    }
+    45% {
+        content: "Freela|";
+    }
+    46% {
+        content: "Freel|";
+    }
+    47% {
+        content: "Free|";
+    }
+    48% {
+        content: "Fre|";
+    }
+    49% {
+        content: "Fr|";
+    }
+    50% {
+        content: "F|";
+    }
+    51% {
+        content: "P|";
+    }
+    52% {
+        content: "Ph|";
+    }
+    53% {
+        content: "Pho|";
+    }
+    54% {
+        content: "Phot|";
+    }
+    55% {
+        content: "Photo|";
+    }
+    56% {
+        content: "Photog|";
+    }
+    57% {
+        content: "Photogr|";
+    }
+    58% {
+        content: "Photogra|";
+    }
+    59% {
+        content: "Photograp|";
+    }
+    60% {
+        content: "Photograph|";
+    }
+    61% {
+        content: "Photographe|";
+    }
+    62% {
+        content: "Photographer|";
+    }
+    63% {
+        content: "Photographe|";
+    }
+    64% {
+        content: "Photograph|";
+    }
+    65% {
+        content: "Photograp|";
+    }
+    66% {
+        content: "Photogra|";
+    }
+    67% {
+        content: "Photogr|";
+    }
+    68% {
+        content: "Photog|";
+    }
+    69% {
+        content: "Photo|";
+    }
+    70% {
+        content: "Phot|";
+    }
+    71% {
+        content: "Pho|";
+    }
+    72% {
+        content: "Ph|";
+    }
+    73% {
+        content: "P|";
+    }
+}
+
+header section {
+    background-image: url(../img/hero-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+header section .contant {
+    background-color: rgba(0, 0, 0, 0.353);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.hero-titel {
+    font-size: 4.5rem;
+}
+
+.typed {
+    font-size: 2.5rem;
+}
+.navbar {
+    z-index: 100;
+}
+
+.navbar-brand,
+.collapse {
+    font-family: "Alegreya", serif;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-family: "Alegreya SC", serif;
+    font-family: "Amatic SC", cursive;
+    font-family: "IBM Plex Serif", serif;
+    font-family: "Noto Sans", sans-serif;
+    font-family: "Noto Serif", serif;
+    font-family: "Open Sans", sans-serif;
+    font-family: "Patua One", cursive;
+}
+
+header .collapse ul li {
+    padding-left: 5px;
+}
+#ABOUT .skill-mf .progress {
+    background-color: #cde1f8;
+    margin: 0.5rem 0 1.2rem 0;
+    border-radius: 0;
+    height: 0.7rem;
+}
+
+.title-box-2 .title-left {
+    padding-bottom: 35px;
+    position: relative;
+}
+section .title-box-2 .title-left::before {
+    content: "";
+    position: absolute;
+    height: 3px;
+    background-color: #0078ff;
+    width: 100px;
+    bottom: 7px;
+}
+
+.navbar-toggler span {
+    position: relative;
+    height: 3px;
+    background-color: #ffffff;
+    width: 50px;
+}
+.navbar-toggler span::before {
+    content: "";
+    position: absolute;
+    height: 3px;
+    background-color: #ffffff;
+    width: 30px;
+    bottom: 15px;
+    right: 15px;
+}
+.navbar-toggler span::after {
+    content: "";
+    position: absolute;
+    height: 3px;
+    background-color: #ffffff;
+    width: 30px;
+    bottom: 7px;
+    right: 15px;
+}
+/* ==================== */
+
+.container .ico-circle {
+    border: solid 10px #0078ff;
+    border-radius: 50%;
+    padding: 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.service-box:hover .ico-circle {
+    border: solid 10px #e9ecef;
+    background-color: #0078ff;
+    color: #fff;
+}
+
+.service-box {
+    border-radius: 15px;
+}
+.line-mf {
+    width: 40px;
+    height: 5px;
+    background-color: #0078ff;
+    margin: 0 auto;
+}
+
+.title-a {
+    font-size: 50px;
+}
+
+@media all and (max-width: 990px) {
+    .container .ico-circle {
+        border: solid 10px #0078ff;
+        border-radius: 50%;
+        padding: 10px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+    }
+}
+/* ================== */
+.section-counter .container-fluid .col-sm-3 .counter-box .ico-circle {
+    border: solid 10px #e9ecef;
+    padding: 15px;
+    display: block;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.section-counter {
+    background-image: url(../img/post-3.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 20px 0px;
+}
+
+.section-counter .container-fluid {
+    background-color: #0077ffb8;
+    height: 50vh;
+    width: 100%;
+}
+
+.section-counter .container-fluid .row .col-sm-3 {
+    padding: 50px 0px;
+}
+
+.counter-num span,
+.counter-num p {
+    font-family: "Alegreya", serif;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-family: "Alegreya SC", serif;
+    font-family: "Amatic SC", cursive;
+    font-family: "IBM Plex Serif", serif;
+    font-family: "Noto Sans", sans-serif;
+    font-family: "Noto Serif", serif;
+    font-family: "Open Sans", sans-serif;
+    font-family: "Patua One", cursive;
+    font-family: "Roboto", sans-serif;
+}
+
+/* ================== */
+
+#work .work-img {
+    overflow: hidden;
+}
+
+.col-md-4 .work-box img {
+    -webkit-transition: all 1.1s;
+    -o-transition: all 1.1s;
+    transition: all 1.1s;
+}
+.col-md-4 .work-box:hover img {
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+.w-ctegory {
+    color: #0077ffb8;
+}
+
+.portfolio-mf .row .col-md-4 {
+    padding-top: 50px;
+}
+
+.portfolio-mf .line-mf {
+    width: 40px;
+    height: 5px;
+    background-color: #0078ff;
+    margin: 0 auto;
+}
+/* ================= */
+#Clients{
+    background-color: rgb(213, 0, 0);
+    height: 70vh;
+    width: 100%;
+}
+.section-head h3:after {
+    content: "";
+    width: 100%;
+    height: 30px;
+    background-image: url(..);
+    background-repeat: repeat;
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    z-index: -1; }
+
+#Clients .carousel-inner{
+    background-color: aliceblue;
+    width: 100%;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
+#Clients .carousel-inner .carousel-item .img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 15px;
+}
+
+
+#Clients .carousel-inner .carousel-item .content-test p{
+    position: relative;
+    left: 25%;
+    width: 50%;
+    line-height: 1.6;
+    margin: 0;
+    font-size: 15px;
+    color: #748182;
+}
+#Clients .carousel-inner .carousel-item .content-test h6{
+padding-top: 30px;
+font-size: 16px;
+font-weight: 600;
+margin: 30px 0 5px;
+}
+#Clients .carousel-inner .carousel-item .content-test span
+{
+    font-size: 12px;
+    font-weight: 600;
+    color: #888;
+    margin-bottom: 30px;
+}
+
+#Clients .carousel-inner .carousel-item .content-test {
+    padding-bottom: 50px;
+}
+
+/* ================================ */
+#contact {
+    background-position: 100% 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.paralax-mf .overlay {
+    background-color: #0077ffb3;
+    position: absolute;
+    top: 0;
+    left: 0px;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.7;
+}
+
+#contact .box-shadow-full {
+    padding: 3rem 1.25rem;
+    margin-bottom: 3rem;
+    z-index: 2;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+#contact .contact-mf {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+#contact .contact-mf h5 {
+    padding-bottom: 50px;
+}
+
+#contact button {
+    background: #0078ff;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    -webkit-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+    border-radius: 15px;
+}
+
+#contact .list-ico li svg {
+    color: #0078ff;
+}
+
+#contact .list-ico li span {
+    padding: 15px 15px;
+}
+
+#contact .socials ul li svg {
+    color: black;
+}
+
+#contact .socials ul li {
+    padding: 15px;
+}
+
+#contact .socials ul li span {
+    border: solid 5px #0078ff;
+    border-radius: 50%;
+    padding: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s;
+}
+
+#contact .socials ul li:hover span {
+    border: solid 5px #e9ecef;
+    background-color: #0078ff;
+}
+#contact .socials ul li:hover #contact svg {
+    color: #fff;
+}
+
+/* ===================== */
+footer {
+    background-color: #0078ff;
+    width: 100%;
+}
+footer a {
+    color: white;
+}
+
+/* ================== */
+#blog {
+    margin: 50px 0px;
+}
+
+#blog .avatar {
+    width: 32px;
+    height: 32px;
+    margin-right: 4px;
+    overflow: hidden;
+}
+
+#blog .card-category {
+    bottom: 25px;
+}
+
+#blog .card-category h6 {
+    background-color: #0078ff;
+    padding: 5px 10px;
+}
+
+#blog h3 a {
+    color: black;
+}
+
+#blog h3 a:hover {
+    width: 500px;
+    color: #0078ff;
+}
